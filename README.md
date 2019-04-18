@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2646262.svg)](https://doi.org/10.5281/zenodo.2646262)
 
 ## Computational appendix of *[Bounding the sets of classical and quantum correlations in networks](https://www.arxiv.org/abs/1904......)*
 
